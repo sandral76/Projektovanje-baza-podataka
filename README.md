@@ -1,1 +1,2 @@
-# Projektovanje-baza-podataka
+Cilj projekta je kreiranje šeme baze podataka koja će se koristiti kao glavna podrška za poslovanje službe za ljudske resurse nekog odabranog realnog sistema.
+HRM (Human Resource Management) predstavlja izbor ciljeva, utvrđivanje politike, kao i planiranje, organizovanje, koordinaciju i kontrolu delatnosti u području ljudskih resursa, i to preuzimanjem upravljačkih akcija radi postizanja izabranih ciljeva i ostvarivanja same svrhe upravljačke funkcije kao podsistema funkcionisanja organizacije.
